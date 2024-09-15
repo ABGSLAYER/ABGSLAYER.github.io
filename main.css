@@ -1,0 +1,902 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+h1 
+
+{
+  text-align: center;
+  font-size: 80px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+
+  
+}
+
+.pagetitle
+
+{
+  text-align: center;
+  font-size: 60px;
+  color: #e0e1dd;
+  background-color: #1B263B;
+  outline: solid 10px #1B263B;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 75%;
+  margin-left: 50px;
+  
+}
+
+.pageheading
+{
+  text-align: left;
+  font-size: 80px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 75%;
+  display: inline-block;
+  margin-left: 50px;
+  
+}
+
+.pageheader
+{
+  
+  
+  
+}
+
+.dropdown
+
+{
+  text-align: center;
+  font-size: 80px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 15%;
+  display: inline-block;
+  margin-left: 50px;
+  
+  
+  
+}
+
+.filter
+{
+  
+}
+
+.tags
+
+{
+  text-align: center;
+  font-size: 60px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 10%;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.sale 
+{
+  text-align: center;
+  font-size: 60px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 10%;
+  display: inline-block;
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+.search-label
+{
+  text-align: center;
+  font-size: 54px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 100px;
+  display: inline-block;
+  margin-left: 5px;
+  text-decoration: none;
+  vertical-align: middle;
+
+}
+
+.search-label:hover
+{
+  background-color: #8ba4c5;
+  
+  color: #ffffff;
+}
+
+.game-search-bar
+{
+
+  display: inline-block;
+  font-size: 54.9px;
+  width: 620px;
+  outline: solid 10px #415A77;
+  margin-left: 10px;
+  font-family: Nerko One;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.game-search
+{
+  
+  display: inline-block;
+  width: 900px;
+  vertical-align: top;
+  
+}
+
+.featured
+
+{
+  text-align: center;
+  font-size: 60px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 15%;
+  display: inline-block;
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+.sale:hover
+{
+  background-color: #8ba4c5;
+  
+  color: #ffffff;
+}
+
+.featured:hover
+{
+  background-color: #8ba4c5;
+  
+  color: #ffffff;
+}
+
+.drop-link
+
+{
+
+  font-size: 60px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 286px;
+  display: block;
+  text-decoration: none;
+  margin-top: 10px;
+  
+  
+}
+
+.game-tag
+{
+  font-size: 40px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 190px;
+  display: block;
+  text-decoration: none;
+  height: 60px;
+  margin-top: 10px;
+}
+
+.drop-link:hover
+
+{
+  background-color: #8ba4c5;
+  
+  color: #ffffff;
+}
+
+.game-tag:hover
+{
+  background-color: #8ba4c5;
+  
+  color: #ffffff;
+}
+
+.dropdown:hover
+
+{
+  background-color: #8ba4c5;
+  
+  color: #ffffff;
+}
+
+.tags:hover
+{
+  background-color: #8ba4c5;
+  
+  color: #ffffff;
+}
+
+.dropdown-content 
+
+{
+  
+  text-align: left;
+  display: none;
+  position: absolute;
+  z-index: 1;
+
+ 
+
+}
+
+.tags-content
+{
+  text-align: left;
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+
+.dropdown:hover 
+
+.dropdown-content 
+
+{
+  display: block;
+}
+
+.tags:hover
+
+.tags-content
+{
+  display: block;
+}
+
+.dropp 
+{
+
+}
+
+.header 
+
+{
+  background-color: #1B263B;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  padding-right: 200px;
+  padding-left: 200px;
+  font-family: Nerko One;
+
+}
+
+body 
+
+{
+  background-color: #0D1B2A;
+  font-family: Nerko One;
+}
+
+.nav-link 
+{
+  display: inline-block;
+  background-color: #778DA9;
+  font-size: 30px;
+  padding: 0px 170px 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 10px #415A77 solid;
+  color: #E0E1DD;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;  
+  text-decoration: none;
+  font-family: Nerko One;
+}
+
+.nav-link:hover
+
+{
+  background-color: #8ba4c5;
+  border: 10px #537397 solid;
+  color: #ffffff;
+  
+}
+
+.navigation 
+
+{
+
+text-align: center;
+
+}
+
+.main-content
+
+{
+
+
+
+}
+
+.about-us
+
+{
+  font-family: Nerko One;
+  display:inline-block;
+  width: 800px;
+  background-color: #1B263B ;
+  font-size: 50px;
+  color: #E0E1DD;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;  
+  margin-top: 75px;
+  margin-left: 100px  ;
+  text-align: center;
+  border: 10px #1B263B solid;
+  padding: 20px;
+  
+  
+}
+
+h2
+
+{
+ font-family: Nerko One;
+ font-size: 50px;
+ text-decoration: underline;
+}
+
+p
+{
+  
+  
+ font-size: 30px;
+}
+
+.vapourman
+
+{
+  display: inline-block;
+  margin-left: 175px;
+  vertical-align: bottom;
+  align-content: center;
+  background-color: #1B263B ;
+  padding: 25px;
+  
+}
+
+.vapourrrman 
+
+{
+  width: 600px;
+  height: 490px;
+}
+
+.contact-heading 
+{
+  font-family: Nerko One;
+  display:block;
+  
+  margin-left: 50px;
+  margin-right: 70px;
+  background-color: #1B263B ;
+  font-size: 70px;
+  color: #E0E1DD;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;  
+  margin-top: 120px;
+  text-align: center;
+  padding: 20px;
+}
+
+.contact-us
+
+{
+  margin-bottom: 100px;
+}
+
+.email
+
+{
+  font-family: Nerko One;
+  display:inline-block;
+  width: 400px;
+  background-color: #1B263B ;
+  font-size: 30px;
+  color: #E0E1DD;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;  
+  margin-top: 40px;
+  margin-left: 100px  ;
+  text-align: center;
+  border: 10px #1B263B solid;
+  padding: 20px;
+  vertical-align: middle;
+  height: 400px;
+  
+  
+}
+
+.email-heading 
+
+{
+  display: inline;
+}
+
+.email-input 
+
+{
+  display: inline;
+  font-size: 20px;
+  width: 300px;
+}
+
+.email-message
+
+{
+  margin-top: 20px;
+  font-size: 20px;
+  width: 400px;
+  height: 200px;
+  
+}
+
+.send
+{
+  background-color: #778DA9;
+  border: 10px #415A77 solid;
+
+}
+
+.send:hover
+
+{
+  background-color: #8ba4c5;
+  border: 10px #537397 solid;
+  color: #ffffff;
+  
+}
+
+.social-media
+
+{
+  display: inline-block;
+  width: 450px;
+  height: 350px;
+  background-color: #1B263B ;
+  margin-top: 30px;
+  margin-left: 100px;
+  border: 10px #1B263B solid;
+  padding: 20px;
+  vertical-align: middle;
+}
+
+.instagram, .x, .facebook, .youtube, .tik-tok, .whatsapp
+
+{
+  width: 100px;
+  height: 100px;
+  margin-left: 35px;
+  margin-top: 50px;
+}
+
+.contacts
+{
+  font-family: Nerko One;
+  display:inline-block;
+  width: 450px;
+  background-color: #1B263B ;
+  font-size: 20px;
+  color: #E0E1DD;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;  
+  margin-top: 40px;
+  margin-left: 100px  ;
+  text-align: left;
+  border: 10px #1B263B solid;
+  padding: 20px;
+  vertical-align: middle;
+  height: 300px;
+}
+
+.contact-links:hover
+
+{
+  color:#8ba4c5;
+}
+
+.game-list
+{
+  margin-top: 200px;
+}
+
+.gbs 
+{
+ 
+ margin-left: 50px;
+ display: block;
+ width: 2000px;
+ 
+ 
+}
+
+.groupbattlestrategies
+
+{
+ width: 400px;
+ height: 250px;
+ display: inline-block;
+ vertical-align: top;
+}
+
+.gbs-desc
+{
+  text-align: left;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 1300px;
+  height: 230px;
+  display: inline-block;
+  margin-left: 5px;
+  text-decoration: none;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.game-title
+
+{
+  font-size: 45px;
+  margin-left: 15px;
+  display: inline-block;
+}
+
+.game-price
+
+{
+  font-size: 60px;
+  margin-left: 400px;
+  display: inline-block;
+  
+}
+
+.game-genres
+
+{
+  font-size: 25px;
+  margin-left: 15px;
+}
+
+.desc
+{
+  font-size: 20px;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.options
+{
+  margin-left: 50px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: inline-block;
+}
+
+.options-label
+{
+  text-align: center;
+  font-size: 40px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 200px;
+  height: 60px;
+  display: block;
+  text-decoration: none;
+  
+}
+
+.option
+{
+  text-align: center;
+  font-size: 35px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 200px;
+  height: 150px;
+  display: block;
+  text-decoration: none;
+  
+}
+
+.sign-up
+
+{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 500px;
+  margin-top: 250px;
+}
+
+.sign-up-label
+
+{
+  text-align: center;
+  font-size: 35px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 500px;
+  height: 50px;
+  display: block;
+  
+}
+
+.sign-up-content
+{
+  
+  text-align: center;
+  font-size: 35px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 500px;
+  height: 400px;
+  display: block;
+}
+
+.email-sign-up
+{
+  display: inline-block;
+}
+
+
+
+.email-sign-up-input
+
+{
+  display: inline-block;
+}
+
+.sign-up-button
+
+{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 200px;
+  height: 60px;
+  text-align: center;
+  
+  font-size: 35px;
+  color: #000000;
+  background-color: #ffffff;
+  outline: solid 3px #415A77;
+  
+  font-family: Nerko One;
+  
+}
+
+.existing-acc
+{
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.brandon
+{
+  display: inline-block;
+  
+  margin-left: 150px;
+  margin-top: 150px;
+}
+
+.captain
+{
+  display: inline-block;
+  margin-left: 250px;
+  margin-top: 150px;
+  
+  
+}
+
+.lucian
+{
+  display: inline-block;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+.Honey
+{
+  display: inline-block;
+  
+  margin-left: 250px;
+  margin-top: 150px;
+}
+
+.name
+{
+  text-align: center;
+  font-size: 35px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 500px;
+  height: 50px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.job
+{
+  text-align: center;
+  font-size: 35px;
+  color: #E0E1DD;
+  background-color: #778DA9;
+  outline: solid 10px #415A77;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 500px;
+  height: 50px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.portrait
+{
+  width: 500px;
+  height: 500px;
+  margin-top: 20px;
+  
+
+}
+
+.staff-members
+{
+  width: 2000px;
+}
+
+.nothing 
+{
+  text-align: center;
+  font-size: 35px;
+  color: #e0e1dd;
+  background-color: #1B263B;
+  outline: solid 10px #1B263B;
+  text-shadow:
+    -1px -1px 2px #000,
+    1px -1px 2px #000,
+    -1px 1px 2px #000,
+    1px 1px 2px #000;    
+  font-family: Nerko One;
+  width: 1000px;
+  height: 50px;
+  display: block;
+  margin-left: 450px;
+  margin-top: 500px;
+  margin-bottom: 800px;
+}
